@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-28T03:47:57.247Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="JD-MFzCm1hub6zt53meR" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T03:56:40.770Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="i9fLAgG9ZFDiRotf0Pjz" version="12.1.7" type="github" pages="1">
   <diagram id="H6E7IEXJiZfdVzSYgY7N" name="Page-1">
-    <mxGraphModel dx="778" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="776" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -89,7 +89,7 @@
           <mxGeometry x="500" y="220" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="8AsLaK-saWc9Pk9g60iB-30" value="立项申请表&lt;br&gt;定制化需求表" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="620" y="95" width="100" height="65" as="geometry"/>
+          <mxGeometry x="620" y="95" width="140" height="65" as="geometry"/>
         </mxCell>
         <mxCell id="8AsLaK-saWc9Pk9g60iB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8AsLaK-saWc9Pk9g60iB-31" target="8AsLaK-saWc9Pk9g60iB-33">
           <mxGeometry relative="1" as="geometry"/>
@@ -167,6 +167,12 @@
         </mxCell>
         <mxCell id="8AsLaK-saWc9Pk9g60iB-48" value="结项" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="145" y="740" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="8AsLaK-saWc9Pk9g60iB-62" value="商务方案&lt;br&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="140" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="8AsLaK-saWc9Pk9g60iB-64" value="标书（营销中心）&lt;br&gt;样机（生产制造）&lt;br&gt;报告（销售部）&lt;br&gt;合同（销售部）&lt;br&gt;财报（财务部）" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="620" y="580" width="140" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
